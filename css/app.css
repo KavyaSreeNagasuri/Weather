@@ -1,0 +1,19 @@
+
+.results-hide{
+    display: none;
+}
+#spanid{
+    display: block;
+}
+#py{
+    position: relative;
+    margin-left:65%;
+    margin-top:10%;
+}
+.credentials {
+    float: right;
+    padding-left: 5px;
+    line-height: 22px;
+    padding-top: 2px;
+    min-width: 43%;
+}
